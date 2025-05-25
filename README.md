@@ -119,9 +119,6 @@
 ###
 
 <br clear="both">
-
-![snake gif](https://github.com/Yokesh-Dev/Yokesh-Dev/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <div align="center">
