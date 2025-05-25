@@ -13,7 +13,7 @@
 ###
 
 <p align="left">I'm a passionate Frontend Developer with a strong focus on building responsive, accessible, and engaging user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🔭 I’m currently working on Full stack Projects.<br>🌱 Learning more about performance optimization , Gen Ai , Ubuntu ,System Design.<br>💬 Ask me about React, JavaScript, CSS, or anything frontend!<br>
-  🌐 Checkout My   <a href " https://yokesh-portfolio.neocities.org/My%20profile"> Portfolio </a> & <a href " https://www.linkedin.com/in/yokeshramana"> Linkedin Profile </a> </p>
+  🌐 Checkout My   <a href " https://yokesh-portfolio.neocities.org/My%20profile" target="_blank" > Portfolio </a> & <a href " https://www.linkedin.com/in/yokeshramana" target="_blank"> Linkedin Profile </a> </p>
   </br>
 
 
