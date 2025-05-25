@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lkMWlpN3UzZjJ2NjUycGt2a3lodzkzOXgxZXJsOGd2MDZxeTlvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋 I'm Yokesh</h1>
@@ -16,22 +12,11 @@
 
 ###
 
-<p align="left">I'm a passionate Frontend Developer with a strong focus on building responsive, accessible, and engaging user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🔭 I’m currently working on Full stack Projects.<br>🌱 Learning more about performance optimization , Gen Ai , Ubuntu ,System Design.<br>💬 Ask me about React, JavaScript, CSS, or anything frontend!<br>🌐 Portfolio: yourportfolio.com</p>
+<p align="left">I'm a passionate Frontend Developer with a strong focus on building responsive, accessible, and engaging user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🔭 I’m currently working on Full stack Projects.<br>🌱 Learning more about performance optimization , Gen Ai , Ubuntu ,System Design.<br>💬 Ask me about React, JavaScript, CSS, or anything frontend!<br>
+  🌐 Checkout My   <a href " https://yokesh-portfolio.neocities.org/My%20profile"> Portfolio </a> & <a href " https://www.linkedin.com/in/yokeshramana"> Linkedin Profile </a> </p>
+  </br>
 
-###
 
-<div align="center">
-  
- <a href="https://www.linkedin.com/in/yokeshramana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"    /> 
-    </a> 
- 
-  <a href="mailto:yokeshramana21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
 
 ###
 
