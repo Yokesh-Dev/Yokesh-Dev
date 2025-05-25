@@ -2,13 +2,13 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlkMTNjZXYzYmh0OGxrYjEydWc4eDVpNGM4ODFoY290YWVoMDI3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 </div>
 <h1 align="center">Hi there 👋 I'm Yokesh</h1>
-###
+
 <h2 align="center">🎨 Frontend Developer | 💻 UI/UX Enthusiast | 🌐 Web Developer</h2>
-###
+
 <h3 align="left">👩‍💻  About Me</h3>
-###
+
 <p align="left">I'm a passionate Frontend Developer with a strong focus on building responsive, accessible, and engaging user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🔭 I’m currently working on Full stack Projects.<br>🌱 Learning more about performance optimization , Gen Ai , Ubuntu ,System Design.<br>💬 Ask me about React, JavaScript, CSS, or anything frontend!<br>
-###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
