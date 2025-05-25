@@ -13,8 +13,20 @@
 ###
 
 <p align="left">I'm a passionate Frontend Developer with a strong focus on building responsive, accessible, and engaging user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br><br>🔭 I’m currently working on Full stack Projects.<br>🌱 Learning more about performance optimization , Gen Ai , Ubuntu ,System Design.<br>💬 Ask me about React, JavaScript, CSS, or anything frontend!<br>
-  🌐 Checkout My   <a href " https://yokesh-portfolio.neocities.org/My%20profile" target="_blank" > Portfolio </a> & <a href " https://www.linkedin.com/in/yokeshramana" target="_blank"> Linkedin Profile </a> </p>
-  </br>
+  🌐 Checkout My 
+  <div align="left">
+  <a href="https://www.linkedin.com/in/yokeshramana/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="yokeshramana21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+ 
 
 
 
