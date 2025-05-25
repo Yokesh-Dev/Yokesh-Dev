@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">🎨 Frontend Developer | 💻 UI/UX Enthusiast | 🌐 Web Developer</h2>
+<h1 align="center">Hey there 👋 I'm Yokesh</h1>
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Yokesh</h1>
+<h2 align="center">🎨 Frontend Developer | 💻 UI/UX Enthusiast | 🌐 Web Developer</h2>
 
 ###
 
@@ -117,6 +117,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/yokesh-dev/yokesh-dev/output/snake.svg" alt="Snake animation" />
 
