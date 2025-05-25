@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlkMTNjZXYzYmh0OGxrYjEydWc4eDVpNGM4ODFoY290YWVoMDI3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+</div>
 ###
 
 <h1 align="center">Hi there 👋 I'm Yokesh</h1>
