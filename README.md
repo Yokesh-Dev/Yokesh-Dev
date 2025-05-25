@@ -120,7 +120,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yokesh-dev/yokesh-dev/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Yokesh-Dev/Yokesh-Dev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
