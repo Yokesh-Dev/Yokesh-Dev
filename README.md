@@ -101,7 +101,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/hzWC7lYKSoQ6ULr6js/giphy.gif?cid=ecf05e477kj9wkr79e7o56ti9ux65h8czoij96b4fqbyp7v7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="200" src="https://i.giphy.com/hzWC7lYKSoQ6ULr6js.webp"  />
 </div>
 
 
